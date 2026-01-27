@@ -1,8 +1,8 @@
 {
-  "version": "1.0.2",
-  "buildNumber": 3,
-  "apkUrl": "https://github.com/jerrywu-voltraware/gios_ble_eng_ota/releases/download/v1.0.2/GIOS_BLE_Eng_v1.0.2.apk",
-  "releaseNotes": "v1.0.2 更新內容\n\n1. 改用 GitHub 作為 OTA 更新來源\n2. 修正細節...",
+  "version": "1.0.3",
+  "buildNumber": 4,
+  "apkUrl": "https://github.com/jerrywu-voltraware/gios_ble_eng_ota/releases/download/v1.0.3/GIOS_BLE_Eng_v1.0.3.apk",
+  "releaseNotes": "v1.0.3 更新內容\n\n1. 改用 GitHub 作為 OTA 更新來源",
   "forceUpdate": false,
   "minVersion": "1.0.0"
 }
