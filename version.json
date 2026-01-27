@@ -1,6 +1,8 @@
 {
-  "versionCode": 102,
-  "versionName": "1.0.2",
-  "apkUrl": "https://github.com/jerrywu-voltraware/gios_ble_eng_ota/releases/download/v1.0.2/PTU_App_v1.0.2.apk",
-  "releaseNotes": "Initial release"
+  "version": "1.0.3",
+  "buildNumber": 4,
+  "apkUrl": "https://github.com/jerrywu-voltraware/gios_ble_eng_ota/releases/download/v1.0.3/GIOS_BLE_Eng_v1.0.3.apk",
+  "releaseNotes": "v1.0.3 更新內容\n\n1. iOS 200B 封包接收優化\n2. 修正細節...",
+  "forceUpdate": false,
+  "minVersion": "1.0.0"
 }
