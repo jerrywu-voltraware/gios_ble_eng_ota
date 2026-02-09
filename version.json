@@ -1,8 +1,8 @@
 {
-  "version": "1.0.4",
-  "buildNumber": 5,
-  "apkUrl": "https://github.com/jerrywu-voltraware/gios_ble_eng_ota/releases/download/v1.0.4/GIOS_BLE_Eng_v1.0.4.apk",
-  "releaseNotes": "v1.0.4 更新內容\n\n1. 修正i1_deg/i2_deg為負值時，計算錯誤的問題\n",
+  "version": "1.0.5",
+  "buildNumber": 6,
+  "apkUrl": "https://github.com/jerrywu-voltraware/gios_ble_eng_ota/releases/download/v1.0.5/GIOS_BLE_Eng_v1.0.5.apk",
+  "releaseNotes": "v1.0.5 更新內容\n\n1. Wave功能加入重置按鈕\n",
   "forceUpdate": false,
   "minVersion": "1.0.0"
 }
