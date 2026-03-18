@@ -1,8 +1,9 @@
 {
-  "version": "1.0.5",
-  "buildNumber": 6,
-  "apkUrl": "https://github.com/jerrywu-voltraware/gios_ble_eng_ota/releases/download/v1.0.5/GIOS_BLE_Eng_v1.0.5.apk",
-  "releaseNotes": "v1.0.5 更新內容\n\n1. Wave功能加入重置按鈕\n",
+  "version": "1.0.6",
+  "buildNumber": 7,
+  "apkUrl": "https://github.com/jerrywu-voltraware/gios_ble_eng_ota/releases/download/v1.0.6/GIOS_BLE_Eng_v1.0.6.apk",
+  "releaseNotes": "v1.0.6 更新內容\n\n1. 支持韌體修訂版本顯示\n",
   "forceUpdate": false,
   "minVersion": "1.0.0"
 }
+
