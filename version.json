@@ -1,8 +1,8 @@
 {
-  "version": "1.0.7",
-  "buildNumber": 8,
-  "apkUrl": "https://github.com/jerrywu-voltraware/gios_ble_eng_ota/releases/download/v1.0.7/GIOS_BLE_Eng_v1.0.7.apk",
-  "releaseNotes": "v1.0.7 更新內容\n\n1. 優化 DEMO 模式\n",
+  "version": "1.0.8",
+  "buildNumber": 9,
+  "apkUrl": "https://github.com/jerrywu-voltraware/gios_ble_eng_ota/releases/download/v1.0.8/GIOS_BLE_Eng_v1.0.8.apk",
+  "releaseNotes": "v1.0.8 更新內容\n\n1. 優化 demo2 樣板\n2. 將 i3 拿掉\n",
   "forceUpdate": false,
   "minVersion": "1.0.0"
 }
