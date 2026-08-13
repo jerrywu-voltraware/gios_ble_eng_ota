@@ -1,8 +1,8 @@
 {
-  "version": "1.0.10",
-  "buildNumber": 11,
-  "apkUrl": "https://github.com/jerrywu-voltraware/gios_ble_eng_ota/releases/download/v1.0.10/gios040xst_eng_v1.0.10.apk",
-  "releaseNotes": "v1.0.10 更新內容\n\n1. 修正 PRU / PTU 溫度負值顯示異常\n2. 修正溫度波形圖 Y 軸縮放問題\n3. 修正 CSV 溫度欄位數值\n",
+  "version": "1.0.11",
+  "buildNumber": 12,
+  "apkUrl": "https://github.com/jerrywu-voltraware/gios_ble_eng_ota/releases/download/v1.0.11/gios040xst_eng_v1.0.11.apk",
+  "releaseNotes": "v1.0.11 更新內容\n\n1. 錯誤通知改為單一浮動面板，依時間累積列出，不再層層堆疊；可縮小為右下角圖示\n2. 移除 Chger 分頁，Demo1/2/3 整併為單一 Demo 分頁，改以下拉清單切換樣式\n3. 展示樣式1 充電板重新設計，車輛停在板上並具狀態色與電波動畫\n4. 展示樣式2 車底充電座位置固定\n5. 標題顯示完整裝置名稱\n6. 修正錯誤條件值/限制值無法顯示負數\n7. 修正連線中返回掃描頁會出現例外\n",
   "forceUpdate": false,
   "minVersion": "1.0.0"
 }
