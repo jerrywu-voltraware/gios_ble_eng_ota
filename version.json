@@ -1,8 +1,8 @@
 {
-  "version": "1.0.11",
-  "buildNumber": 12,
-  "apkUrl": "https://github.com/jerrywu-voltraware/gios_ble_eng_ota/releases/download/v1.0.11/gios040xst_eng_v1.0.11.apk",
-  "releaseNotes": "v1.0.11 更新內容\n\n1. 錯誤通知改為單一浮動面板，依時間累積列出，不再層層堆疊；可縮小為右下角圖示\n2. 移除 Chger 分頁，Demo1/2/3 整併為單一 Demo 分頁，改以下拉清單切換樣式\n3. 展示樣式1 充電板重新設計，車輛停在板上並具狀態色與電波動畫\n4. 展示樣式2 車底充電座位置固定\n5. 標題顯示完整裝置名稱\n6. 修正錯誤條件值/限制值無法顯示負數\n7. 修正連線中返回掃描頁會出現例外\n",
-  "forceUpdate": false,
-  "minVersion": "1.0.0"
+    "version":  "1.0.11",
+    "buildNumber":  13,
+    "apkUrl":  "https://github.com/jerrywu-voltraware/gios_ble_eng_ota/releases/download/v1.0.11-build13/gios040xst_eng_v1.0.11_build13.apk",
+    "releaseNotes":  "v1.0.11 Build 13\n\n1. 新增 GIOH0009ST 掃描支援，掃描頁底部顯示適用機型。\n2. 擴大裝置卡片點擊連線範圍，保留獨立廣播資料展開操作。\n3. 連線期間顯示轉圈、進度條與建立連線／設定連線／讀取服務提示，防止重複操作。\n4. 連線失敗顯示重試提示，改善離開頁面時的連線清理。\n\n安裝說明：\n- App 版本維持 1.0.11，Build 固定為 13。\n- 現有更新檢查只比較版本號；已安裝 1.0.11 者需手動下載 APK。\n- 若安裝時出現簽章不相容，需先備份可匯出資料，再移除舊版後安裝；移除會清除 App 本機資料與設定。本次 APK 已在 SM-N950F 安裝並啟動成功。",
+    "forceUpdate":  false,
+    "minVersion":  "1.0.0"
 }
