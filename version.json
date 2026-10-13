@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.11",
+    "version":  "1.0.8",
     "buildNumber":  13,
-    "apkUrl":  "https://github.com/jerrywu-voltraware/gios_ble_eng_ota/releases/download/v1.0.11-build13/gios040xst_eng_v1.0.11_build13.apk",
-    "releaseNotes":  "v1.0.11 Build 13\n\n1. 新增 GIOH0009ST 掃描支援，掃描頁底部顯示適用機型。\n2. 擴大裝置卡片點擊連線範圍，保留獨立廣播資料展開操作。\n3. 連線期間顯示轉圈、進度條與建立連線／設定連線／讀取服務提示，防止重複操作。\n4. 連線失敗顯示重試提示，改善離開頁面時的連線清理。\n\n安裝說明：\n- App 版本維持 1.0.11，Build 固定為 13。\n- 現有更新檢查只比較版本號；已安裝 1.0.11 者需手動下載 APK。\n- 若安裝時出現簽章不相容，需先備份可匯出資料，再移除舊版後安裝；移除會清除 App 本機資料與設定。本次 APK 已在 SM-N950F 安裝並啟動成功。",
+    "apkUrl":  "https://github.com/jerrywu-voltraware/gios_ble_eng_ota/releases/download/v1.0.8-build13/gios040xst_eng_v1.0.8_build13.apk",
+    "releaseNotes":  "v1.0.8 Build 13\n\n- Android 與 iOS 統一為 1.0.8，Build 13。\n- 同版本比較 Build，支援往後只增加 Build 的更新；更新與關於視窗顯示 Build。\n- 新增 GIOH0009ST 支援與掃描頁底部適用機型。\n- 卡片點擊連線、連線進度提示、重複操作防護及失敗清理。\n- 修正更新視窗在窄螢幕溢位。\n\n安裝說明：本版固定使用目前簽章憑證。簽章不相容的舊安裝需先備份可匯出資料，再移除重裝；移除會清除本機資料。移轉到本版後，未來使用相同金鑰並增加 Build 即可覆蓋更新。舊版若只比較版本號，需手動下載安裝本版一次。",
     "forceUpdate":  false,
     "minVersion":  "1.0.0"
 }
