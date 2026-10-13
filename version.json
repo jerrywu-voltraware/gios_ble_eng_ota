@@ -1,9 +1,9 @@
 {
-    "version":  "2.0.0",
-    "buildNumber":  2000001,
-    "displayBuildNumber":  1,
-    "apkUrl":  "https://github.com/jerrywu-voltraware/gios_ble_eng_ota/releases/download/v2.0.0/gios040xst_eng_v2.0.0_build1.apk",
-    "releaseNotes":  "v2.0.0 / Build 1\n\n- Android 與 iOS 統一顯示 2.0.0 / Build 1。\n- Android 內部 versionCode 為 2000001，保留舊版覆蓋更新能力。\n- 新增 GIOH0009ST 支援、卡片連線與進度提示。\n- 更新檢查避免舊快取，並分開處理顯示 Build 與 Android 安裝編號。\n\n簽章與本版相同的舊安裝可直接更新。若舊版簽章不同，仍須先備份可匯出資料，再移除重裝；移除會清除本機資料。",
-    "forceUpdate":  false,
-    "minVersion":  "1.0.0"
+  "version": "2.0.0",
+  "buildNumber": 2000001,
+  "displayBuildNumber": 1,
+  "apkUrl": "https://github.com/jerrywu-voltraware/gios_ble_eng_ota/releases/download/v2.0.0/gios040xst_eng_v2.0.0_build1.apk",
+  "releaseNotes": "v2.0.0 / Build 1\n\n- Android 與 iOS 統一顯示 2.0.0 / Build 1。\n- Android 內部 versionCode 為 2000001，保留舊版覆蓋更新能力。\n- 新增 GIOH0009ST 支援、卡片連線與進度提示。\n- 更新檢查避免舊快取，並分開處理顯示 Build 與 Android 安裝編號。\n\n已修正 APK 簽章，恢復使用 v1.0.11 的原始簽章，既有舊版可保留資料覆蓋更新。請重新下載 APK。若已安裝先前使用不同簽章的 2.0.0，則無法直接覆蓋此修正版，請先備份資料再處理。",
+  "forceUpdate": false,
+  "minVersion": "1.0.0"
 }
